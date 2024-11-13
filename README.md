@@ -1,6 +1,6 @@
 # Snake-Game
 A interactive snake game made using C++
-1. Introduction
+.1. Introduction
   This documentation explains a user-friendly Snake game developed in C++,     using fundamental programming concepts such as encapsulation, abstraction,   operator overloading. The game follows the classic rules of ”Snake,” where   the player controls the snake’s direction to consume food items on the       grid, increasing its length and score. The game ends if the snake collides   with itself.
 
 2. Classes and Files
@@ -10,7 +10,7 @@ A interactive snake game made using C++
     • Methods: Functions for movement, direction change, collision                 detection, and growth.
   - Food Class
       The Food class is responsible for generating food items at random 
-      positions on the grid.
+      positions on the grid
       • Attributes: position of the food.
       • Methods: Functions for generating new food coordinates and                   retrieving current food coordinates.
 
